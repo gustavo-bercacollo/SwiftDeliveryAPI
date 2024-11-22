@@ -2,26 +2,7 @@
 # SwiftDeliveryAPI
 
 A SwiftDeliveryAPI é uma aplicação para gerenciar entregas, usuários, sessões e logs de entregas. Desenvolvida com **Node.js**, **TypeScript** e **Prisma ORM**, utiliza autenticação JWT para garantir a segurança do sistema.
-
 ---
-
-## Índice
-
-- [Tecnologias](#tecnologias)
-- [Requisitos](#requisitos)
-- [Instalação](#instalação)
-- [Configuração](#configuração)
-- [Execução](#execução)
-- [Estrutura de Pastas](#estrutura-de-pastas)
-- [Rotas](#rotas)
-- [Testes](#testes)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
-- [Autor](#autor)
-- [Contato](#contato)
-
----
-
 ## Tecnologias
 
 - [Node.js](https://nodejs.org/)
