@@ -1,0 +1,10 @@
+services:
+  postgres: 
+    image: "bitnami/postgresql:latest"
+    container_name: swift_delivery_postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: gustavo3000
+      POSTGRES_DB: SwiftDeliveryAPI
